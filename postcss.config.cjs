@@ -4,3 +4,5 @@ module.exports = {
     autoprefixer: {},
   }
 }
+
+// for using with postcss firstly convert the module into ES module;
